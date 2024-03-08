@@ -1,6 +1,7 @@
 # 💫 About Me:
 # rasi-kp<br><br>## 👋 Hello, I'm Muhammad Rasi K P!<br><br>Welcome to my GitHub profile. I'm passionate about Programming. Feel free to explore my repositories and projects.<br>
 
+![rasi new-modified](https://github.com/rasi-kp/rasi-kp/assets/107319917/b17253a2-0317-49df-8dd4-66cfe71e9f2a)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Rasi_kp) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rasikp.rasikp.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rasi_k_p) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-rasi-k-p-820498240/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rasir239) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22745380) 
